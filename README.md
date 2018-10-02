@@ -8,3 +8,9 @@ www.qfnucloud.cn
 作为中间产物，P了几张好图
 本想配合另一个模板使用，即V2.5版本，
 懒得搞了，放弃。。。。
+
+
+#为保护个人隐私，删除了如下图片：
+/img/donateAL.jpg;
+/img/donateQQ.jpg;
+/img/donateWX.jpg.
